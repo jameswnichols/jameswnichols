@@ -1,16 +1,17 @@
 ### Hi there 👋
+I'm James Nichols!
 
-<!--
-**jameswnichols/jameswnichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Pronouns: He / Him
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Computer Science with Cybersecurity @ Oxford Brookes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Currently Learning 🖥️
+- At University 🎓
+  - 📦 COMP4005 - Object Oriented Programming using Java.
+  - 👥 COMP4006 - Devops / Professional Programming with Python.
+  - 🔒 COMP4035 - Cybersecurity.
+
+- In my free time 🏠
+  - 🎮 Unity & Mono decompilation and reverse engineering using C#.
+  - 🕹️ Game development in Python using `pygame-ce`.
+  - 🌐 Web development with Flask / Django backend and Javascript frontend.
