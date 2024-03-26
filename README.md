@@ -3,7 +3,7 @@ I'm James Nichols!
 
 😄 Pronouns: He / Him
 
-🌱 I’m currently learning Computer Science with Cybersecurity @ Oxford Brookes
+📚 Studying: Computer Science with Cybersecurity @ Oxford Brookes
 
 ### I'm Currently Learning 🖥️
 - At University 🎓
