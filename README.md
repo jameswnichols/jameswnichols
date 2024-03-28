@@ -14,4 +14,4 @@ I'm James Nichols!
 - In my free time 🏠
   - 🎮 Unity & Mono decompilation and reverse engineering using C#.
   - 🕹️ Game development in Python using pygame-ce.
-  - 🌐 Web development with Flask / Django backend and Javascript frontend.
+  - 🌐 Web development with Flask backend and htmx + alpine.js frontend.
