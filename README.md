@@ -7,9 +7,10 @@ I'm James Nichols!
 
 ### I'm Currently Learning 🖥️
 - At University 🎓
-  - 📦 COMP4005 - Object Oriented Programming using Java.
-  - 👥 COMP4006 - Devops / Professional Programming with Python.
-  - 🔒 COMP4035 - Cybersecurity.
+  - 📦 COMP5004 - Software Development with C / C++.
+  - 🔒 COMP4020 - Foundations of Security.
+  - 🛜 COMP5043 - Switching and Routing basics.
+  - 🖊️ COMP5047 - Applied Software Engineering.
 
 - In my free time 🏠
   - 🎮 Unity & Mono decompilation and reverse engineering using C#.
